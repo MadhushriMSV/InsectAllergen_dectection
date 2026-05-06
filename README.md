@@ -6,4 +6,6 @@ in the 1st part of the analyses 'proteinGroups.txt'were merged with blastp outpu
 Merged hits were cleaned up using script "one_hit_per_protein"
 ## List of top 40 proteins LFQ
 using the new list top 40 allergens based on LFQ were selected using script "select_top40_allergens" 
+## Plot heatmap
+Using the list of top 40 allergens with high LFQ values, heatmap was generated.  
 
