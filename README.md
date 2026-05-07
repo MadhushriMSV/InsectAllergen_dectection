@@ -9,3 +9,4 @@ using the new list top 40 allergens based on LFQ were selected using script "sel
 ## Plot heatmap
 Using the list of top 40 allergens with high LFQ values, heatmap was generated.  
 
+These 40 high intensity allergens were used for further analyses. 
